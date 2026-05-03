@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ysmreg.github.io/reference-vpgnf4/sitemap.xml
